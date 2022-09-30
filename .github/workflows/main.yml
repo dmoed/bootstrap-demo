@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.2
       with:
-        server: ftp.apptasticnv.com
-        username: flutter-dev@flutter-dev.apptastic.sr
+        server: ftp.apptastic.sr
+        username: developer@flutter-dev.apptastic.sr
         password: 'XPUak8pyU4H9'
