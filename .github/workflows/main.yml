@@ -14,5 +14,5 @@ jobs:
         server: ftp.apptastic.sr
         username: developer@flutter-dev.apptastic.sr
         password: 'XPUak8pyU4H9'
-        local-dir: ./bootstrap-demo-1/
+        server-dir: ./bootstrap-demo-1/
 
